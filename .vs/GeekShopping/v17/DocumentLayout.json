@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MySqlContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
-              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
-              "RelativeToolTip": "GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T13:52:34.696Z",
+              "WhenOpened": "2024-03-04T14:44:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:43:15.245Z",
               "EditorCaption": ""
             }
           ]
