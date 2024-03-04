@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A695AD6E-7CD8-4C1C-8DF7-98FA03D34B6F}|Solution Items{A695AD6E-7CD8-4C1C-8DF7-98FA03D34B6F}|C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A695AD6E-7CD8-4C1C-8DF7-98FA03D34B6F}|Solution Items{A695AD6E-7CD8-4C1C-8DF7-98FA03D34B6F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-04T14:13:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MySqlContext.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
               "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
               "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
               "RelativeToolTip": "GeekShopping.ProductApi\\Model\\Context\\MySqlContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:52:34.696Z",
               "EditorCaption": ""
