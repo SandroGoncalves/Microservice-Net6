@@ -73,3 +73,4 @@ C:\Users\Sandro\Documents\GIT\GeekShopping\GeekShopping.ProductApi\obj\Debug\net
 C:\Users\Sandro\Documents\GIT\GeekShopping\GeekShopping.ProductApi\obj\Debug\net6.0\GeekShopping.ProductApi.pdb
 C:\Users\Sandro\Documents\GIT\GeekShopping\GeekShopping.ProductApi\obj\Debug\net6.0\GeekShopping.ProductApi.genruntimeconfig.cache
 C:\Users\Sandro\Documents\GIT\GeekShopping\GeekShopping.ProductApi\obj\Debug\net6.0\ref\GeekShopping.ProductApi.dll
+C:\Users\Sandro\Documents\GIT\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll

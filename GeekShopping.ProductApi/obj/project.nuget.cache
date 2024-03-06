@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UgabLObgdaH+0ay376O1gJ8zTHZQZzrfS/hvVFbppkGGn3gZVdChn9bkFHW5NZ51a8B+uyjq6wLPnzM/k7byuA==",
+  "dgSpecHash": "Cgt7HqChAgVRzG+rf+tokHnLughDYkm5PfU5R6DiUa5J4fB8tS1X/MpuKHw1yeLq7aLUq2SLJxgaAHFIIp8Cjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\Sandro\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sandro\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Sandro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
