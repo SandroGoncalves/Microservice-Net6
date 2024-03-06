@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3993CA-04CD-45C6-9D01-0EAE3C071D07}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AB6D74F-8A6B-4F10-A783-11F6F96C4428}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\users\\sandro\\documents\\git\\geekshopping\\geekshopping.identityserver\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB6D74F-8A6B-4F10-A783-11F6F96C4428}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IdentityConfig.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfig.cs",
               "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Configuration\\IdentityConfig.cs",
               "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfig.cs",
               "RelativeToolTip": "GeekShopping.IdentityServer\\Configuration\\IdentityConfig.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAAgAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:32:44.816Z",
+              "WhenOpened": "2024-03-06T17:24:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandro\\Documents\\GIT\\GeekShopping\\GeekShopping.ProductApi\\Program.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:06:16.689Z",
               "EditorCaption": ""
             }
           ]
